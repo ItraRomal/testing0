@@ -1,0 +1,6 @@
+FAILED WITH NO LINKS: 
+['http://s3.eu-central-1.amazonaws.com/qa-web-test-task/8543.html']
+FAILED WITH NO TEXT: 
+['http://s3.eu-central-1.amazonaws.com/qa-web-test-task/638.html', 'http://s3.eu-central-1.amazonaws.com/qa-web-test-task/3395.html']
+FAILED WITH NO HREFS: 
+[]
